@@ -1,0 +1,4 @@
+/home/cri/MA-VMD/build/CMakeFiles/MA_VMD.dir
+/home/cri/MA-VMD/build/CMakeFiles/build_all_configs.dir
+/home/cri/MA-VMD/build/CMakeFiles/edit_cache.dir
+/home/cri/MA-VMD/build/CMakeFiles/rebuild_cache.dir

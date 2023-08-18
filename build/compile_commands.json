@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/cri/MA-VMD/build",
+  "command": "/usr/bin/g++  -I\"/home/cri/MA-VMD/\\$$SYSTEM\" -I/home/cri/MA-VMD/Eigen -I/home/cri/MA-VMD/Eigen/unsupported -g -o CMakeFiles/MA_VMD.dir/VMD.cpp.o -c /home/cri/MA-VMD/VMD.cpp",
+  "file": "/home/cri/MA-VMD/VMD.cpp"
+},
+{
+  "directory": "/home/cri/MA-VMD/build",
+  "command": "/usr/bin/g++  -I\"/home/cri/MA-VMD/\\$$SYSTEM\" -I/home/cri/MA-VMD/Eigen -I/home/cri/MA-VMD/Eigen/unsupported -g -o CMakeFiles/MA_VMD.dir/VMD_Utils.cpp.o -c /home/cri/MA-VMD/VMD_Utils.cpp",
+  "file": "/home/cri/MA-VMD/VMD_Utils.cpp"
+}
+]

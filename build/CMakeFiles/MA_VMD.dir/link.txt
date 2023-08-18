@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/MA_VMD.dir/VMD.cpp.o CMakeFiles/MA_VMD.dir/VMD_Utils.cpp.o -o MA_VMD 
