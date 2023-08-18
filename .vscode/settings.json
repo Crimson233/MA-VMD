@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "core": "cpp"
-    }
+        "core": "cpp",
+        "eigen": "cpp",
+        "fft": "cpp",
+        "dense": "cpp",
+        "lu": "cpp",
+        "cholesky": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }
